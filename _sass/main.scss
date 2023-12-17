@@ -23,6 +23,10 @@ body {
   transition: background 0.1s ease-in, color 0.1s ease-in;
   // font-size: 120%;
 }
+.container {
+    display: flex;
+    align-items: center; 
+}
 .mid-section-home {
   text-align: center;
   display: flex;
@@ -30,9 +34,10 @@ body {
   justify-content: center;
   align-content: center;
   width: 100%;
-  max-width: 400px;
+  max-width: 600px;
   height: 100vh;
   margin: auto;
+  margin-right: 500px;
   font-size: 1.5rem;
   @include mediaQuery(phone-width) {
     font-size: 1 rem;

@@ -4,124 +4,30 @@ title: About
 permalink: /about/
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- 简介 -->
+Hi, I am Sichen Li, a Data Scientist with a Ph.D. in Astro-particle Physics.
 
-[Link to another page](./another-page.html).
+<!-- 工作 -->
+I have five years of experience in scientific data analysis. Throughout my Ph.D., I worked in the AMS-02 experiment, a cosmic ray detector located on the International Space Station (ISS), led by MIT Nobel physics laureate Prof. Ting and supported by NASA (visit [https://ams02.space](https://ams02.space) ). The international science group comprised over 500 scientists worldwide. As a data scientist in the AMS-02 physics data analysis team, I developed a comprehensive analysis methodology for cosmic antiproton components. This involved 150 steps, including raw data calibration, cleaning, reduction, training classifiers using Machine Learning methods, and employing advanced statistical models like Likelihood Template Fit to extract signals and backgrounds. My work contributed to constraining Dark Matter models by comparing analyzed components with theoretical expectations. Additionally, my results mark the first observation of cosmic antimatter behavior affected by solar activity.
 
-There should be whitespace between paragraphs.
+<!--物理到工业界 -->
+My passion for Physics began in high school and has inspired me to dedicate over ten years to the field, progressing from a high school student to a Ph.D. holder. During my doctoral studies, I delved into physics data analysis and was captivated by the beauty of data science. Consequently, after completing my doctorate, I made the decision to transition to data science and contribute to the industry.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<!-- 性格 -->
+I am an advocate of active learning and enjoy exploring new technological developments. My proactive nature and ability to thrive in high-pressure situations have been tested and refined through various academic and extracurricular activities, showcasing my suitability for fast-paced trading environments.
 
-# Header 1
+Within a team, I often assume the role of the office jester, leveraging my strong sense of humor to foster positive relationships with colleagues.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<!-- 兴趣 -->
+Beyond my professional life, I find joy in hiking and have been an avid Table Tennis player since elementary school. In my leisure time, I indulge in browsing Wikipedia, appreciating its open and collaborative nature.
 
-## Header 2
+<!-- 语言 -->
+As a native Chinese speaker, I am proficient in English at a professional level and have a basic understanding of German. Currently residing in Delft, Netherlands, I plan to learn Dutch. My girlfriend also works in the Netherlands, and we have a cat named Wolli.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<!-- 联系 -->
+Contact me: sli@physik.rwth-aachen.de
 
-### Header 3
+LinkedIn: [https://www.linkedin.com/in/sichen-li-549ab59b/](https://www.linkedin.com/in/sichen-li-549ab59b/) 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+![Branching](./figure/Photo2.jpeg)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-
-## Emojis

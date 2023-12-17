@@ -26,6 +26,7 @@ body {
 .container {
     display: flex;
     align-items: center; 
+    justify-content: center;
 }
 .mid-section-home {
   text-align: center;
@@ -37,7 +38,6 @@ body {
   max-width: 600px;
   height: 100vh;
   margin: auto;
-  margin-right: 500px;
   font-size: 1.5rem;
   @include mediaQuery(phone-width) {
     font-size: 1 rem;

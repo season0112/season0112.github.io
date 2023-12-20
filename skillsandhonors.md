@@ -8,7 +8,7 @@ permalink: /skillsandhonors/
 
 **Programming Language**: 
 
-Python (lib: Scikit-Learn, Numpy, Pandas, Matplotlib, Tensorflow, etc),  C++,  Mathematica
+Python (lib: Scikit-Learn, Numpy, Pandas, Tensorflow, etc),  C++,  Mathematica
 
 **Machine Learning**: 
 
@@ -17,6 +17,10 @@ Regression Analysis, Classification Analysis, Supervised training, Model Evaluat
 **Statistics Modeling**: 
 
 Data Cleaning and Preparation, Probability Theory, Hypothesis Testing and Confidence Intervals, Analysis of Variance, Time Series Analysis, Likelihood Estimation, 
+
+**Data visualization**: 
+
+Matplotlib, Seaborn, Tableau
 
 **Others**: 
 

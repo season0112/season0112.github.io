@@ -9,7 +9,7 @@ permalink: /education/
 
 **Ph.D. in Astroparticle Particle**
 
-**RWTH Aachen University, Aachen, Germany / European Organization for Nuclear Research (CERN), Geneva, Switzerland**
+**[RWTH Aachen University](https://en.wikipedia.org/wiki/RWTH_Aachen_University), Aachen, Germany (TU9 Alliance University, TOP 9 in Germany) / [European Organization for Nuclear Research (CERN)](https://en.wikipedia.org/wiki/CERN), Geneva, Switzerland**
 
 **Graduation Thesis**: [Measurement of the antiproton to proton flux ratio with the Alpha Magnetic Spectrometer on the International Space Station](https://publications.rwth-aachen.de/record/960058)
 
@@ -22,7 +22,7 @@ permalink: /education/
 
 **Master of Science in Particle and Nuclear Physics**
 
-**Harbin Institute of Technology, Harbin, China**
+**[Harbin Institute of Technology](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology), Harbin, China (C9 League University, TOP 9 in China)**
 
 **Graduation Thesis**: [Strong decays of DJ(3000) and DsJ(3040)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.054002)
 
@@ -39,7 +39,7 @@ Advanced Quantum Mechanics, Group Theory in Physics, Quantum Field Theory, Nucle
 
 **Bachelor of Science in Nuclear Physics**
 
-**Harbin Institute of Technology, Harbin, China**
+**[Harbin Institute of Technology](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology), Harbin, China (C9 League University, TOP 9 in China)**
 
 **Graduation Thesis**: [Semi-leptonic production of DsJ(3040) and DJ(3000) in Bs and B decays](https://www.worldscientific.com/doi/abs/10.1142/S0217732317500134)
 

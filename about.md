@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <!-- 简介 -->
-Hi, I am Sichen Li, a Data Scientist with a Ph.D. in Astro-particle Physics. 
+Hi, I am Sichen Li, an experienced Data Scientist with a Ph.D. in Physics. 
 
 <!-- 工作 -->
 I have five years of experience in scientific data analysis. Throughout my Ph.D., I worked in the AMS-02 experiment, a cosmic ray detector located on the International Space Station (ISS), led by MIT Nobel physics laureate Prof. Ting and supported by NASA (visit [https://ams02.space](https://ams02.space) ). The international science group comprised over 500 scientists worldwide. As a data scientist in the AMS-02 physics data analysis team, I developed a comprehensive analysis methodology for cosmic antiproton components. This involved 150 steps, including raw data calibration, cleaning, reduction, training classifiers using Machine Learning methods, and employing advanced statistical models like Likelihood Template Fit to extract signals and backgrounds. My work contributed to constraining Dark Matter models by comparing analyzed components with theoretical expectations. Additionally, my results mark the first observation of cosmic antimatter behavior affected by solar activity.

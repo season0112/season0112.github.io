@@ -36,7 +36,7 @@ Git, Linux, Cluster(SLURM, LSF, Condor System), CMake, Bash Shell,  SQL, LaTex, 
 
 2017-2022, Member of CERN
 
-2015-2016, Chinese National Scholarship (Top 1\%)
+2015-2016, Chinese National Scholarship (Top 1 \%)
 
 2015-2016, HIT Outstanding Student Carder
 

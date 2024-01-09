@@ -6,25 +6,15 @@ permalink: /skillsandhonors/
 
 # Skills:
 
-**Programming Language**: 
+**Programming Language**: Python (lib: Scikit-Learn, Numpy, Pandas, Tensorflow, etc),  C++,  Mathematica
 
-Python (lib: Scikit-Learn, Numpy, Pandas, Tensorflow, etc),  C++,  Mathematica
+**Machine Learning**: Regression Analysis, Classification Analysis, Supervised training, Model Evaluation and Optimization,
 
-**Machine Learning**: 
+**Statistics Modeling**: Data Cleaning and Preparation, Probability Theory, Hypothesis Testing and Confidence Intervals, Analysis of Variance, Time Series Analysis, Likelihood Estimation, 
 
-Regression Analysis, Classification Analysis, Supervised training, Model Evaluation and Optimization,
+**Data visualization**: Matplotlib, Seaborn, Tableau
 
-**Statistics Modeling**: 
-
-Data Cleaning and Preparation, Probability Theory, Hypothesis Testing and Confidence Intervals, Analysis of Variance, Time Series Analysis, Likelihood Estimation, 
-
-**Data visualization**: 
-
-Matplotlib, Seaborn, Tableau
-
-**Others**: 
-
-Git, Linux, Cluster(SLURM, LSF, Condor System), CMake, Bash Shell,  SQL, LaTex, HTML/CSS
+**Others**: Git, Linux, Cluster(SLURM, LSF, Condor System), CMake, Bash Shell,  SQL, LaTex, HTML/CSS
 
 &nbsp;
 &nbsp;

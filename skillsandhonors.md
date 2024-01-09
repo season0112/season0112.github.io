@@ -34,7 +34,7 @@ permalink: /skillsandhonors/
 
 2017-2022, Member of CERN
 
-2015-2016, Chinese National Scholarship (Top 1 % )
+2015-2016, Chinese National Scholarship (Top 0.2 % )
 
 2015-2016, HIT Outstanding Student Carder
 

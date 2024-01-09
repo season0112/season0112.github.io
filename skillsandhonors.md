@@ -14,7 +14,15 @@ permalink: /skillsandhonors/
 
 **Data visualization**: Matplotlib, Seaborn, Tableau
 
-**Others**: Git, Linux, Cluster(SLURM, LSF, Condor System), CMake, Bash Shell,  SQL, LaTex, HTML/CSS
+**Database**: MySQL
+
+**Version Control**: Git, CVS
+
+**Cluster and Cloud**: Computing Cluster(SLURM, LSF, Condor System batching systems), Azure
+
+**Operating Systems**: Linux
+
+**Others**: Jira, CMake, Bash Shell Script, LaTex, HTML/CSS
 
 &nbsp;
 &nbsp;
@@ -26,7 +34,7 @@ permalink: /skillsandhonors/
 
 2017-2022, Member of CERN
 
-2015-2016, Chinese National Scholarship (Top 1 \% )
+2015-2016, Chinese National Scholarship (Top 1 % )
 
 2015-2016, HIT Outstanding Student Carder
 

@@ -8,6 +8,12 @@ permalink: /publication/
 
 • The Alpha Magnetic Spectrometer (AMS) on the international space station: Part II — Results from the first seven years, M. Aguilar et al. (**AMS Collaboration**). Phys.Rept. 894 (2021), 1-116
 
+• Temporal Structures in Positron Spectra and Charge-Sign Effects in Galactic Cosmic Rays, M. Aguilar et al. (**AMS Collaboration**), Phys. Rev. Lett. 131, 151002 
+
+• Properties of Cosmic-Ray Sulfur and Determination of the Composition of Primary Cosmic-Ray Carbon, Neon, Magnesium, and Sulfur: Ten-Year Results from the Alpha Magnetic Spectrometer, M. Aguilar et al. (**AMS Collaboration**), Phys. Rev. Lett. 130, 211002 
+
+• Temporal Structures in Electron Spectra and Charge Sign Effects in Galactic Cosmic Rays, M. Aguilar et al. (AMS Collaboration), Phys. Rev. Lett. 130, 161001
+
 • Properties of Daily Helium Fluxes.M. Aguilar et al. (**AMS Collaboration**). Phys. Rev. Lett. 128, 231102
 
 • Periodicities in the Daily Proton Fluxes from 2011 to 2019 Measured by the Alpha Magnetic Spectrometer on the International Space Station from 1 to 100 GV. M. Aguilar et al. (**AMS Collaboration**). Phys. Rev. Lett. 127, 271102

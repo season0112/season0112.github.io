@@ -18,6 +18,8 @@ permalink: /skillsandhonors/
 
 **Version Control**: Git, CVS
 
+**CI/CD**: Bitbucket, GitLab, Atlassian Bamboo
+
 **Cluster and Cloud**: Computing Cluster(SLURM, LSF, Condor System batching systems), Azure
 
 **Operating Systems**: Linux

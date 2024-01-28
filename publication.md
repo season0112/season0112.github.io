@@ -4,6 +4,12 @@ title: Publication
 permalink: /publication/
 ---
 
+# Open Source Software:
+
+CRIA (Cosmic Rays Identification: Antiproton): 
+
+https://github.com/season0112/CRIA--CosmicRaysIdentificationAntiproton
+
 # Publication: 
 
 • The Alpha Magnetic Spectrometer (AMS) on the international space station: Part II — Results from the first seven years, M. Aguilar et al. (**AMS Collaboration**). Phys.Rept. 894 (2021), 1-116

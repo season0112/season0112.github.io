@@ -8,7 +8,7 @@ permalink: /publication/
 
 CRIA (Cosmic Rays Identification: Antiproton): 
 
-https://github.com/season0112/CRIA--CosmicRaysIdentificationAntiproton
+[https://github.com/season0112/CRIA--CosmicRaysIdentificationAntiproton](https://github.com/season0112/CRIA--CosmicRaysIdentificationAntiproton)
 
 # Publication: 
 

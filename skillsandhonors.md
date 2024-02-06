@@ -4,6 +4,13 @@ title: Skills and Honors
 permalink: /skillsandhonors/
 ---
 
+# Certificate:
+**Azure Data Scientist** (See [here](./Azure_All.pdf))
+
+&nbsp;
+&nbsp;
+&nbsp;
+
 # Skills:
 
 **Programming Language**: Python (lib: Scikit-Learn, Numpy, Pandas, Tensorflow, etc),  C++,  Mathematica

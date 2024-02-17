@@ -5,7 +5,8 @@ permalink: /skillsandhonors/
 ---
 
 # Certificate:
-**Azure Data Scientist** (See [here](./Azure_All.pdf))
+**Azure Data Scientist**: Designing and Implementing a Data Science Solution on Azure using "Azure Machine Learning" and "MLflow".  (See [here](./Azure_All.pdf))
+
 
 &nbsp;
 &nbsp;

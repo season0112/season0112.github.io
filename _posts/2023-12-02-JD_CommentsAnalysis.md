@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Analysis of Product Comments in Online Shopping Website
-categories: [NLP Project]
+categories: [Natural Language Processing (NLP) Project]
 ---
 
 <!-- url is: /home/category/year/month/day/XXX.html -->

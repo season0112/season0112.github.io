@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Raw Cosmic Ray data calibration
-categories: [Science Data Calibration Project]
+categories: [Cosmic Ray Analysis Project]
 ---
 
 <!-- url is: /home/category/year/month/day/XXX.html -->

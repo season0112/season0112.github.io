@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Cosmic Ray identification with Machine Learning
-categories: [Science Data Analysis Project]
+categories: [Cosmic Ray Analysis Project]
 ---
 
 ### Goal

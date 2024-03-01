@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Bank Credit Customer Segmentation with Machine Learning (K-Means and Random Forest)
-categories: [Banking Risk Project]
+categories: [Banking Credit Risk Project]
 ---
 
 <!-- url is: /home/category/year/month/day/XXX.html -->

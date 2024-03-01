@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Analysis of Solar Wind impact on Cosmic Rays
-categories: [Science Data Analysis Project]
+categories: [Cosmic Ray Analysis Project]
 ---
 
 <!-- url is: /home/category/year/month/day/XXX.html -->

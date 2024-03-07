@@ -21,7 +21,7 @@ In Figure 1, some customer attributes are shown for illustration. The correlatio
 
 Split the customer data to training and test dataset, and train a KNN model to predict churn probability for each customer in the training dataset. In figure 3, the confusion matrix is given for the test sample.
 
-![Confusion_Matrix](../../../../../figure/Confusion_Matrix_churn.pdf)
+![Confusion_Matrix](../../../../../figure/Confusion_Matrix_churn.jpg)
 <center>Figure 3: Confusion Matrix on the test sample. </center>
 
 To have further investigation on the customer data, a clustering is applied. The customer data is presented with a pivot table, and K-Means Clustering method is used to divide the customer into 6 distinct groups. The heatmap of the 6 groups is given in figure 4. 

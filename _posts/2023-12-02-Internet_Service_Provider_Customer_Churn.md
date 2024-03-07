@@ -13,10 +13,10 @@ Data Source: The data is from a telco operator and contains about customer subsc
 
 In Figure 1, some customer attributes are shown for illustration. The correlations between them are given in figure 2.
 
-![CustomerAttributes](../../../../../figure/Plot_number_data_.pdf)
+![CustomerAttributes](../../../../../figure/Plot_number_data_.jpg)
 <center>Figure 1: Customer attributes distribution. </center>
 
-![Correlation](../../../../../figure/Plot_Correlation.pdf)
+![Correlation](../../../../../figure/Plot_Correlation.jpg)
 <center>Figure 2: Correlation Matrix between customer attributes variables. </center>
 
 Split the customer data to training and test dataset, and train a KNN model to predict churn probability for each customer in the training dataset. In figure 3, the confusion matrix is given for the test sample.
@@ -26,7 +26,7 @@ Split the customer data to training and test dataset, and train a KNN model to p
 
 To have further investigation on the customer data, a clustering is applied. The customer data is presented with a pivot table, and K-Means Clustering method is used to divide the customer into 6 distinct groups. The heatmap of the 6 groups is given in figure 4. 
 
-![heatmap](../../../../../figure/heatmap.pdf)
+![heatmap](../../../../../figure/heatmap.jpg)
 <center>Figure 4: Heat Map on the clustered costomers. In the X axis, "C" is contract remaining period, "M" is amount of internet spending, "A" is the measure of activity, "S" is the measure of satisfaction, "L" is the client total subscription period.</center>
 
 

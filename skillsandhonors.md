@@ -7,6 +7,12 @@ permalink: /skillsandhonors/
 # Certificate:
 **Azure Data Scientist**: Designing and Implementing a Data Science Solution on Azure using "Azure Machine Learning" and "MLflow".  (See [here](./Azure_All.pdf))
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+# Training Camp: 
+Tableau Training Camp at Weiming College
 
 &nbsp;
 &nbsp;

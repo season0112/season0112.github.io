@@ -6,7 +6,7 @@ pagetype: blog
 <!-- This loops through the paginated posts -->
 
 
-{% if paginator.total_posts == 0 %}
+{% if paginator.posts.size == 0 %}
     <p>No projects right now.</p>
 {% else %}
 <ul class="blog-list">
@@ -33,7 +33,7 @@ pagetype: blog
 {% endif %}
 
 <hr>
-{% if paginator and paginator.total_pages > 1 %}
+{% if paginator and paginator.posts.size > 0 and paginator.total_pages > 1 %}
 <ul>
     {% if paginator.previous_page %}
         <li>

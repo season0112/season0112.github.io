@@ -33,7 +33,7 @@ pagetype: blog
 {% endif %}
 
 <hr>
-{% if paginator and paginator.posts.size > 0 and paginator.total_pages > 1 %}
+{% if paginator and paginator.total_pages > 1 %}
 <ul>
     {% if paginator.previous_page %}
         <li>

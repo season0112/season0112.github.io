@@ -7,23 +7,27 @@ pagetype: blog
 
 
 {% if paginator.total_posts == 0 %}
-    <p>No posts right now.</p>
+    <p>No projects right now.</p>
 {% else %}
-<div class="blogPage-categoryList">
-    <ul>
-    <li><a href="{{ "/categories/" | relative_url }}">Categories</a> : </li>
-    {% for category in site.categories %}
-        {% capture category_name %}{{ category | first }}{% endcapture %}
-        <li><a href="{{"/categories/#" | append: category_name | relative_url}}">{{category_name}}</a></li>
-    {% endfor %}
-</ul>
-</div>
 <ul class="blog-list">
     {% for post in paginator.posts %}
+        {% if post.categories contains 'Banking Credit Risk Project' or 
+              post.categories contains 'Cosmic Ray Analysis Project' or
+              post.categories contains 'Customer and Revenue Project' or
+              post.categories contains 'Natural Language Processing (NLP) Project' %}
         <li>
-            <a class="blog-heading" href="{{ post.url | relative_url }}">{{ post.title }}</a><span class="date">{{ post.date | date_to_string }}</span>
+            <a class="blog-heading" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date_to_string }}</span>
             <div class="excerpt">{{ post.excerpt }}</div>
+            <div class="post-categories">
+                Categories: 
+                {% for category in post.categories %}
+                    <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+                {% unless forloop.last %}&nbsp;{% endunless %}
+                {% endfor %}
+            </div>
         </li>
+        {% endif %}
     {% endfor %}
 </ul>
 {% endif %}

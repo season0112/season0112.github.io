@@ -18,3 +18,5 @@ gem "jemoji"
 
 gemspec
 
+
+gem "rexml", "~> 3.4"

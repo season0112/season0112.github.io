@@ -11,6 +11,13 @@ permalink: /skillsandhonors/
 &nbsp;
 &nbsp;
 
+# Recommendation:
+Get recommendation letter for outstanding performance from MIT. (see [here](./Recommendation.pdf))
+
+&nbsp;
+&nbsp;
+&nbsp;
+
 # Training Camp: 
 Tableau Training Camp at Weiming College
 
